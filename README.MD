@@ -1,7 +1,9 @@
 
 # luigir
 
-luigir is docker image include luigi which python package pipelines of batch. We were adapting it could use the r script in luigi.
+luigir is docker image include luigi which python package pipelines of batch. 
+
+We were adapting it could use the r script in luigi.
 
 
 ## Installation and execute sample
